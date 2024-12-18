@@ -12,7 +12,7 @@ Our goal is to push the boundaries of what RC cars can do while fostering a coll
 
 
 ## Our Cars
-- **Money Pit**: Our Nitro Traxxas 'Max 3.3.'
+- **Money Pit**: Our Nitro Traxxas 'T-Max 3.3.'
 - **Midnight**: Our Electric Traxxas 'Drag Slash.'
 
 
