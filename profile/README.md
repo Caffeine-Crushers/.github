@@ -5,10 +5,10 @@ Welcome to the **Caffeine Crushers** official repository! We are an RC Racing te
 ## About Us
 The Caffeine Crushers bring together a team of passionate RC car enthusiasts who share a love for:
 - High-speed competition.
-- Creative car designs (including JDM Ricer mods).
+- Creative car designs and modifications.
 - Experimentation with cutting-edge RC tech.
 
-Our goal is to push the boundaries of what RC cars can do while fostering a collaborative and fun team environment.
+We aim to push the boundaries of what RC cars can do while fostering a collaborative and fun team environment.
 
 
 ## Our Cars
