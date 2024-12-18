@@ -24,14 +24,14 @@ Whether you’re a seasoned RC enthusiast or a beginner looking to get started, 
 
 ## Team Members
 Meet the Caffeine Crushers:
-- **Nitro Team Lead**: [Othman Al-Fayadh]
-- **EV Team Lead**: [Ayaan Umair]
+- **Nitro Team Lead**: Othman Alfayadh
+- **EV Team Lead**: Ayaan Umair
 
 Want to join our team? Drop us a message!
 
 ## Contact
 For questions, collaborations, or just to say hello:
-- Email: [caffeinecrushers@gmail.com]
-- Social Media: [https://www.instagram.com/caffeinecrushers/]
+- Email: caffeinecrushers@gmail.com
+- Social Media: https://www.instagram.com/caffeinecrushers/
 
 Let’s crush the competition and keep our engines fueled with passion (and caffeine)!
